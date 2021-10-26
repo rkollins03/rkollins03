@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rkollins03
 - 👀 I’m interested in Python at the moment
 - 🌱 I’m currently learning Python
-- 📫 How to reach me @rkollins02@gmail.com
+- 📫 Reach me @rkollins02@gmail.com
